@@ -1,4 +1,4 @@
-# My-first-game-I-made-when-I-was-9-years-old
+# My-first-game-I-made-when-I-was-12-years-old
 My first game as a 2D platformer game made with Godot Game Engine.
 
 This project is a very special one for me – it’s the first game I ever created as a kid. Inspired by the world of Adventure Time, I built a small 2D platformer using Godot, experimenting with the basics of game development.
